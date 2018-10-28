@@ -16,7 +16,7 @@ git commit -m"add new text file"
 git push origin master
 ```
 
-modify a file:
+modify an existing file:
 ```
 git pull
 ... edit some file(s), say newFile.txt here 
