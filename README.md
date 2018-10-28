@@ -1,6 +1,6 @@
 # play_with_me
 
-This repository was created as a safe play space for anyone wanting to try out git commands.
+This repository was created as a safe play space for team mates wanting to try out git commands.
 
 To use this repository, on your local machine:
 ```
@@ -16,6 +16,10 @@ git commit -m"add new text file"
 git push origin master
 ```
 
-
-
-
+modify a file:
+```
+git pull
+... edit some file(s), say newFile.txt here 
+git commit -m"modified text file to xxxx" newFile.txt
+git push origin master
+```
